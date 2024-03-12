@@ -1,0 +1,7 @@
+{
+  "name": "sw-clone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
